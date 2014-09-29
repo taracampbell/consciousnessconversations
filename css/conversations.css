@@ -1,0 +1,31 @@
+#section0 {
+    background-size: cover;
+    background-image: url(../img/moonassi.jpg);
+    text-align: center;
+}
+
+#speakerhome {
+    text-align: center;
+}
+
+/*
+#ajahnbrahm {
+    background-size: cover;
+    background-image: url(../img/ajahnbrahm.png);
+}
+*/
+
+.form-control-feedback {
+    position: relative;
+    display: inline;
+    top: 0;
+    line-height: 14px;
+}
+
+.speaker-thumbnail {
+  padding: 0px 0px 30px 0px;
+}
+
+.table {
+  border-color: #191919;
+}
