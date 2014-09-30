@@ -66,7 +66,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #a2647d;
+    background-color: #d3d3d3;
 }
 
 .navbar-custom .navbar-brand {
@@ -123,7 +123,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #a2647d ;
+        background-color: #d3d3d3;
     }
 
     .navbar-custom.top-nav-collapse {
