@@ -22,13 +22,16 @@
     <!-- Plugin JavaScript -->
     <script src="js/jquery.easing.min.js"></script>
 
+    <script type="text/javascript" src="js/jquery.slimscroll.min.js"></script>
+
 	<script type="text/javascript" src="js/jquery.fullPage.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('#fullpage').fullpage({
 				anchors: ['home', 'about', 'speakers', 'contact'],
 				menu: '#menu',
-				slidesNavigation: true
+				slidesNavigation: true,
+				scrollOverflow: true
 			});
 		});
 	</script>
